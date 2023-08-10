@@ -1,1 +1,4 @@
-[www.flashapply.shop;www.flashapply.store]
+{
+  "olhdswnhrfcd": "+62 85217790074",
+  "oygrbnm": "www.flashapply.shop;wwww.flashapply.store"
+}
